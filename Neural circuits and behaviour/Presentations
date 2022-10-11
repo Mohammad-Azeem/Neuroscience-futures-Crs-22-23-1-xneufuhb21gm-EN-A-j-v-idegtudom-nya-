@@ -1,0 +1,73 @@
+The superior colliculus (SC) is a structure in the midbrain that is part of the brain circuit for the transformation of sensory input into movement output. 
+Its major function is orienting the animal, particularly with eye movements, to objects of interest in the outside world. 
+
+Sensory input describes the response in a sensory organ when it receives stimuli. 
+Sensory input is the stimuli that is perceived by our senses like smell, sight, touch, taste, and hearing. 
+Anything that you perceive using your senses can be called sensory input.
+
+A circuit typically refers to a set of interconnected components that together subserve a specific function. 
+A neural circuit in the brain may be a cluster of neurons that receives electrochemical information that the circuit 
+modifies and transmits to other circuits for further modification.
+
+The midbrain is the topmost part of the brainstem, the connection central between the brain and the spinal cord. 
+There are three main parts of the midbrain - the colliculi, the tegmentum, and the cerebral peduncles.
+
+Your brainstem is the bottom, stalklike portion of your brain. It connects your brain to your spinal cord. 
+Your brainstem sends messages to the rest of your body to regulate balance, breathing, heart rate and more.
+Sudden injuries, and brain or heart conditions may affect how your brainstem works.
+
+Stimuli is a detectable change in the internal or external environment. 
+That which influences or causes a temporary increase of physiological activity or response in the whole organism or in any of its parts.
+
+The definition of physiological is the normal functions of a living thing. 
+An example of physiological is a person shedding skin.
+
+A thing or event that evokes a specific functional reaction in an organ or tissue.
+"areas of the brain which respond to auditory stimuli"
+
+/*
+
+SC orintation to visual stimuli. Explore role of 3 cell types in prey capture in mice 
+to find circuits in SC causing orientation and approach behaviour toward stimuli.
+ Distinct aspects of prey capture of WF and NF neurons by Chemogenetic inactivation.
+WF neurons: for rapid prey detection ,distant approach initiation, 
+NF neurons: for continuous/accurate orienting during pursuit.
+Prey capture: no use of parvalbumin-expressing (PV) neurons(implicated in fear responses)
+
+The visual coding of WF and NF cells in theawake mouse and their projection targets 
+were consistent with their roles in prey detectionversus pursuit. 
+Thus, our studies link specific neural circuit connectivity and function with stimulus 
+detection and orienting behavior, providing insight into visuomotor and 
+attentional mechanisms mediated by superior colliculus.
+
+Highlights
+
+●first demonstration of the role of specific cell populations
+ in the superior colliculus in orienting and approach behavior.
+●A genetically targeted population of wide-field vertical neurons in the superior 
+colliculusis required for rapid prey detection and initiation of long-distance 
+approaches.
+●A genetically targeted population of narrow-field vertical neurons is required 
+for approach initiation, accurate targeting, and approach continuity.
+●Visual response properties and projection targets of these cells are 
+consistent with their role in prey capture, linking neural circuit connectivity 
+and function with behavior.
+
+
+SC laminated struct having superficial SC recieving visual inputs
+ , intermediate/deeper layers recieve multimodal sensory input provide motor output.
+
+
+*/
+
+MO:anatomy, physiology Denoting those neural structures that, by the impulses 
+generated and transmitted by them, cause muscle fibers or pigment 
+cells to contract, or glands to secrete.
+
+The superior colliculus (SC) plays a highly conserved role in visual processing,
+and mediatesvisual orienting behaviors across species. 
+This includes both overt motor orienting and orienting of attention 
+Q: Given this prominent role subserving vision for action, an important goal is 
+to determine how specific circuits and cell types within SC 
+transform stimuli into orienting behavior ? 
+
